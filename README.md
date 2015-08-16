@@ -9,6 +9,8 @@ There is one R script called run_analysis.R that does the following:
 5)From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The run_analysis.R script expects to have the UCI HAR Dataset files downloaded in the directories specified in the setwd() lines.  When the script is executed, the tdata data frame will be created which has steps 1-4 requirements and the enddata data frame is created which has step 5 completed.  A file called "avgAllDataProjectGetData.txt" is created in the last step of the script which creates a text file for step 5.
+=========
+Data for the project:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ==========
 Codebook
