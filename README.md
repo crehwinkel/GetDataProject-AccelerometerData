@@ -63,8 +63,8 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-For each record it is provided
-==========================================
-ID - An identifier of the subject who carried out the experiment. 
-Activity - Its activity label - walking, walking_upstairs, walking_downstairs, sitting, standing, laying
-The average of each of 86 types of measurements listed above for that subject and activity.
+    For each record it is provided
+    ==========================================
+    - ID - An identifier of the subject who carried out the experiment. 
+    - Activity - Its activity label - walking, walking_upstairs, walking_downstairs, sitting, standing, laying
+    - The average of each of 86 types of measurements listed above for that subject and activity.
